@@ -1,9 +1,26 @@
 ### Hi there 👋
 
-Welcome in my GitHub profile!
+Welcome on my GitHub profile!
 
-Connect with me:
-<i class="fab fa-linkedin"><a href="https://www.linkedin.com/in/sara-kahankova/"></a></i>
+<br>
+
+<p>I'm a fast-learning and adaptive backend developer versed in Ruby and Javascript. My background includes cybersecurity 💻, law ⚖️ & communication 💬, which equip me particularly well for roles that often require going beyond the mere technical stack ✨.</p>
+
+<br>
+
+<h4>My latest project</h4>
+<img src="http://www.xplorerz.net/assets/logo-0278308ed02368f44b0a0781d220632f3e181e4a039a518aedd1405337918326.png" alt="Xplorerz logo">
+<h5>Web application for travel itineraries 🌎</h5>
+<p>Tech stack: Ruby, Rails, CSS, Git Bootstrap, JS, PostgreSQL, Heroku</p>
+<p>http://www.xplorerz.net/</p>
+
+<br>
+<h4>My technical stack</h4> 
+
+<br>
+
+<h6>Connect with me:</h6>
+<a href="https://www.linkedin.com/in/sara-kahankova/"><i class="fab fa-linkedin"></i></a>
 
 <!--
 **kahinek1999/kahinek1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
