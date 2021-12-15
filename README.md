@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome in my GitHub profile!
+
+Connect with me:
+<i class="fab fa-linkedin"><a href="https://www.linkedin.com/in/sara-kahankova/"></a></i>
+
 <!--
 **kahinek1999/kahinek1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
