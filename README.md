@@ -17,9 +17,9 @@ Welcome on my GitHub profile!
 <br>
 
 <h4>Connect with me:</h4>
-<a href="https://www.linkedin.com/in/sara-kahankova/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" heigh="50px"></a>
+<a href="https://www.linkedin.com/in/sara-kahankova/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"></a>
 
-<a href="https://drive.google.com/file/d/1NsfmUrs5OwiCMA7Pq2FmMOAc_SHJCsf9/view?usp=sharing" style="text-decoration: none;">My CV 📄</a>
+<p>My CV<a href="https://drive.google.com/file/d/1NsfmUrs5OwiCMA7Pq2FmMOAc_SHJCsf9/view?usp=sharing" style="text-decoration: none;">📄</a></p>
 
 <!--
 **kahinek1999/kahinek1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
