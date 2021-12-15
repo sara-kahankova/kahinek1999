@@ -14,7 +14,7 @@ Welcome on my GitHub profile!
 <h5>Web application for travel itineraries 🌎</h5>
 <p>Tech stack: Ruby, Rails, CSS, Git Bootstrap, JS, PostgreSQL, Heroku</p>
 <a href="http://www.xplorerz.net/" target="_blank">See the project here!</a>
-<a href="See the demo of our project: https://www.youtube.com/watch?v=BfC-h9wm-Ns&feature=youtu.be" target="_blank">See the demo here! 📹</a>
+<a href="https://www.youtube.com/watch?v=BfC-h9wm-Ns&feature=youtu.be" target="_blank">See the demo here! 📹</a>
 
 <br>
 <br>
