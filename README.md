@@ -17,7 +17,7 @@ Welcome on my GitHub profile!
 <br>
 
 <h4>Connect with me:</h4>
-<a href="https://www.linkedin.com/in/sara-kahankova/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px"></a>
+<a href="https://www.linkedin.com/in/sara-kahankova/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>
 <br>
 
 <p>My CV <a href="https://drive.google.com/file/d/1NsfmUrs5OwiCMA7Pq2FmMOAc_SHJCsf9/view?usp=sharing" style="text-decoration: none;">📄</a></p>
