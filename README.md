@@ -18,6 +18,20 @@ Welcome on my GitHub profile!
 <br>
 <br>
 
+<h4>I'm currently working on:</h4>
+<br>
+<img src="https://www.ma-rk.cz/wp-content/uploads/2020/06/cropped-FullColor_1024x1024_72dpi-4.jpg" width="160px">
+
+<h5>This is a Ruby on rails app developed for a family real estate company Mark.</h5>
+
+<p>Its vision is to provide the company a tool for a better communication with its customers. It achieves this with a simple UI and functionalities like rentals listings or services catalogue.</p>
+
+Check the Project repository for more info on the technical stack and core functionalities:
+<a href="https://github.com/kahinek1999/mark#readme" target="_blank"> 📄 Here 📄 </a>
+
+<br>
+<br>
+
 <h4>Connect with me:</h4>
 <a href="https://www.linkedin.com/in/sara-kahankova/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>
 <br>
