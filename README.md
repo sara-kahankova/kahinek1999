@@ -20,7 +20,7 @@ Welcome on my GitHub profile!
 
 <h4>I'm currently working on:</h4>
 <br>
-<img src="https://www.ma-rk.cz/wp-content/uploads/2020/06/cropped-FullColor_1024x1024_72dpi-4.jpg" width="160px">
+<img src="https://www.ma-rk.cz/wp-content/uploads/2020/06/cropped-FullColor_1024x1024_72dpi-4.jpg" width="250px">
 
 <h5>This is a Ruby on rails app developed for a family real estate company Mark.</h5>
 
