@@ -31,6 +31,10 @@ Check the Project repository for more info on the technical stack and core funct
 
 <br>
 <br>
+<h4>I also recently started challenging myself on Codewars!</h4>
+<p>Check my profile: <a href="https://www.codewars.com/users/kahinek1999" target="_blank">⚠️ Here ⚠️</a></p>
+<br>
+<br>
 
 <h4>Connect with me:</h4>
 <a href="https://www.linkedin.com/in/sara-kahankova/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>
