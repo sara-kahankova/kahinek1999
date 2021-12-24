@@ -8,7 +8,7 @@ Welcome on my GitHub profile!
 
 <br>
 
-<h4>My latest project:</h4>
+<h4>My latest project:</h4> 
 <br>
 <a href="http://www.xplorerz.net/" target="_blank"><img src="http://www.xplorerz.net/assets/logo-0278308ed02368f44b0a0781d220632f3e181e4a039a518aedd1405337918326.png" alt="Xplorerz logo" width="200px"></a>
 <h5>Web application for travel itineraries 🌎</h5>
