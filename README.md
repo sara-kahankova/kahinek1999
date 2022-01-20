@@ -24,7 +24,7 @@ Welcome on my GitHub profile!
 
 <h5>This is a Ruby on rails app developed for a family real estate company Mark.</h5>
 
-<p>Its vision is to provide the company a tool for a better communication with its customers. It achieves this with a simple UI and functionalities like rentals listings or services catalogue.</p>
+<p>Its vision is to provide the company a tool for better communication with its customers. It achieves this with a simple UI and functionalities like rentals listings or services catalogue.</p>
 
 Check the Project repository for more info on the technical stack and core functionalities:
 <a href="https://github.com/kahinek1999/mark#readme" target="_blank"> 📄 Here 📄</a>
